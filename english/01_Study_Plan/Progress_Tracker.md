@@ -17,18 +17,19 @@ status: Active
 
 ## Summary
 
-- Days until exam: 30
-- Total hours studied: 1.5 (diagnostic test)
-- Weakest skill: **Listening**
-- Strongest skill: TBD (need Reading/Writing/Speaking scores)
-- Priority: Build basic listening comprehension before adding full sections.
-- **Tomorrow's priority (21/06):** Grammar — present simple, present continuous, past simple; Vocabulary — Education (20 words); Listening — Part 1 practice.
+- Days until exam: 27
+- Total hours studied: 3.0
+- Weakest skill: **Writing** (Task 1 score 1/10)
+- Strongest skill: TBD (need Reading/Speaking scores)
+- Priority: Learn Task 1 structure (overview + body paragraphs) before writing more tasks.
+- **Tomorrow's priority (24/06):** Grammar — prepositions of time/place; Vocabulary — Travel (20 words); Reading — gap-fill practice.
 
 ## Tracker Table
 
 | Date | Hours | Grammar | Vocab New | Vocab Review | Listening | Reading | Writing | Speaking | Mock Test | Confidence | Notes |
 |------|-------|---------|-----------|--------------|-----------|---------|---------|----------|-----------|------------|-------|
 | 2026-06-20 | 1.5 | — | 0 | 0 | **5/40** | — | — | — | Diagnostic | 1 | Listening very weak. Focus on Part 1 this week. |
+| 2026-06-23 | 1.5 | — | 5 | 0 | Part 1 phrases | — | Task 1 — 1/10 | — | — | 2 | First Task 1 practice. Need structure focus. |
 
 ## Weekly Targets
 
